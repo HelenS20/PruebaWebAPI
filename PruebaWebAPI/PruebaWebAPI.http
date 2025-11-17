@@ -1,0 +1,6 @@
+@PruebaWebAPI_HostAddress = http://localhost:5286
+
+GET {{PruebaWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
